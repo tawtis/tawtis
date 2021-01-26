@@ -22,8 +22,3 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Instagram" src="https://img.shields.io/badge/tawtistrades%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="TikTok" src="https://img.shields.io/badge/tawtistrades%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
-<img alt="Twitter" src="https://img.shields.io/badge/tawtistrades%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-<img alt="Discord" src="https://img.shields.io/badge/Bull Trading%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
