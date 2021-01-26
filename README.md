@@ -21,6 +21,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-![stats](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![stats](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/overview.svg)
 ![langs](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/languages.svg)
  </a>
