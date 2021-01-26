@@ -2,9 +2,9 @@
 
 ### past projects
 
-- discordoverflow : discord coding community
-- chester network : unturned server network
-- chargingbull : discord-based bot with stock charting commands
+- discordoverflow :: discord coding community
+- chester network :: unturned server network
+- chargingbull :: discord-based bot with stock charting commands
 
 ### socials
 [![discord](https://img.shields.io/badge/discord-222222?&style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/tawtistrades/)](https://www.instagram.com/tawtistrades/)
