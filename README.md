@@ -2,7 +2,7 @@
 
 ### Current projects
 
-- Chester Nework :: Unurned server network
+- Chester Nework :: Unturned server network
 - ChargingBull :: Discord-based bot with stock charting commands
 - Bull Trading website :: Website for my stock trading Discord community
 
