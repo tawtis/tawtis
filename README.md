@@ -6,7 +6,7 @@
 - ChargingBull :: Discord-based bot with stock charting commands
 - Bull Trading website :: Website for my stock trading Discord community
 
-### Find me elsewhere
+### Elsewhere
 [![discord](https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/tawtistrades/)[![twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tawtistrades/)[![instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tawtistrades)[![steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/tawtis/)
 
 
