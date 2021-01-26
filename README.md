@@ -12,8 +12,8 @@
 [![instagram](https://img.shields.io/badge/instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://discordapp.com/users/303670561676984331/)](https://discordapp.com/users/303670561676984331/)
 [![steam](https://img.shields.io/badge/steam-222222?&style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/tawtis/)](https://steamcommunity.com/id/tawtis/)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=tokyonight)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawtis&layout=compact&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=gotham)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawtis&layout=compact&theme=gotham)
 
 ### skills <br/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
