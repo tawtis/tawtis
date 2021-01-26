@@ -14,8 +14,8 @@ if you're looking to contact me, please do so through discord. i'm inactive on m
 
 
 
-![tawtis github stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawtis)](https://github.com/tawtis/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawtis&layout=compact&theme=tokyonight)
 
 
 ### Skills : <br/>
