@@ -9,8 +9,9 @@
 ### socials
 [![discord](https://img.shields.io/badge/discord-222222?&style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/303670561676984331/)](https://www.instagram.com/tawtistrades/)
 [![twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tawtistrades/)](https://twitter.com/tawtistrades/)
-[![instagram](https://img.shields.io/badge/insta%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tawtistrades)
+[![instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tawtistrades)
 [![steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/tawtis/)
+
 
 ![stats](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/overview.svg)
 ![langs](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/languages.svg)
