@@ -14,7 +14,7 @@
 
 ![stats](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/overview.svg)
 ![langs](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/languages.svg)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ashtontawtis&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ashtontawtis&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=ashtontawtis&redirect=true)
  </a>
 
 
