@@ -26,4 +26,4 @@
 <img alt="TikTok" src="https://img.shields.io/badge/tawtistrades%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
 <img alt="Twitter" src="https://img.shields.io/badge/tawtistrades%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-<img alt="Discord" src="https://img.shields.io/badge/%3CBull Trading%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/Bull Trading%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
