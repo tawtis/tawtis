@@ -7,10 +7,10 @@
 - chargingbull, discord-based bot with stock charting commands
 
 ### socials
-[![discord](https://img.shields.io/badge/Discord-222222?&style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/tawtistrades/)](https://www.instagram.com/tawtistrades/)
-[![twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tawtistrades/)](https://twitter.com/tawtistrades/)
-[![instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://discordapp.com/users/303670561676984331/)](https://discordapp.com/users/303670561676984331/)
-[![steam](https://img.shields.io/badge/Steam-222222?&style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/tawtis/)](https://steamcommunity.com/id/tawtis/)
+[![discord](https://img.shields.io/badge/discord-222222?&style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/tawtistrades/)](https://www.instagram.com/tawtistrades/)
+[![twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tawtistrades/)](https://twitter.com/tawtistrades/)
+[![instagram](https://img.shields.io/badge/instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://discordapp.com/users/303670561676984331/)](https://discordapp.com/users/303670561676984331/)
+[![steam](https://img.shields.io/badge/steam-222222?&style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/tawtis/)](https://steamcommunity.com/id/tawtis/)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=tokyonight)
