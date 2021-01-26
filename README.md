@@ -14,12 +14,13 @@
 
 ![stats](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/overview.svg)
 ![langs](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/languages.svg)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ashtontawtis&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=ashtontawtis&redirect=true)
- </a>
+</a>
 
 
-### skills <br/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+### stuff i like <br/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Instagram" src="https://img.shields.io/badge/tawtistrades%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img alt="TikTok" src="https://img.shields.io/badge/tawtistrades%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
