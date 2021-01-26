@@ -8,7 +8,7 @@
 
 ### socials
 [![discord](https://img.shields.io/badge/discord-222222?&style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/303670561676984331/)](https://www.instagram.com/tawtistrades/)
-[![twitter](https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white")](https://twitter.com/tawtistrades/)
+[![twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white")](https://twitter.com/tawtistrades/)
 [![instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tawtistrades)
 [![steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/tawtis/)
 
