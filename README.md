@@ -14,7 +14,7 @@ if you're looking to contact me, please do so through discord. i'm inactive on m
 
 
 
-![tawtis github stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+![tawtis github stats](https://github-readme-stats.vercel.app/api?username=Tawtis&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawtis)](https://github.com/tawtis/github-readme-stats)
 
 
