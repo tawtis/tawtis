@@ -1,11 +1,5 @@
 ## tawtis 🐢
 
-### Current projects
-
-- Chester Nework :: Unturned server network
-- ChargingBull :: Discord-based bot with stock charting commands
-- Bull Trading website :: Website for my stock trading Discord community
-
 ![stats](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/overview.svg)
 ![langs](https://raw.githubusercontent.com/tawtis/github-stats-transparent/a1581988ce126a68318a59bb5e344d3fcbddd144/generated/languages.svg)</a>
 
